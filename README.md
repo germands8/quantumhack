@@ -1,1 +1,1 @@
-# quantumhack
+# Quantum hackathon
